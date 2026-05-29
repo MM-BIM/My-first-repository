@@ -1,6 +1,6 @@
 # My-first-repository
 <br>
-#Q3 factorial of a number n
+#factorial of a number n
 
 n = 5
 fact = 1
