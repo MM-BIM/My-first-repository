@@ -1,2 +1,12 @@
 # My-first-repository
-Learning Python through practice problems and basic exercises.
+<br>
+#Q3 factorial of a number n
+
+n = 5
+fact = 1
+i = 1
+while i<=n:
+    fact *= i
+    i +=1
+
+print("fact:", fact)
